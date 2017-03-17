@@ -1,3 +1,7 @@
+//Student: Jonathan Lopez
+//Course: BIT 285
+//Date: Winter 2017
+
 namespace Assignment2.Migrations
 {
     using System;

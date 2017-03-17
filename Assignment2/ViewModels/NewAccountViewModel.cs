@@ -1,4 +1,8 @@
-﻿using System;
+﻿//Student: Jonathan Lopez
+//Course: BIT 285
+//Date: Winter 2017
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
